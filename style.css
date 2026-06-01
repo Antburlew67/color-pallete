@@ -1,273 +1,324 @@
-#red{
+#red {
     background-color: #ff0000;
     min-height: 40px;
 }
-#yellow{
+
+#yellow {
     background-color: #ffff00;
     min-height: 40px;
 }
-#blue{
+
+#blue {
     background-color: #0000ff;
     min-height: 40px;
 }
-#orange{
+
+#orange {
     background-color: #ffa500;
     min-height: 40px;
 }
-#green{
+
+#green {
     background-color: #008000;
     min-height: 40px;
 }
-#purple{
+
+#purple {
     background-color: #800080;
     min-height: 40px;
 }
-#orange{
-    background-color:#FF8000;
+
+#orange {
+    background-color: #FF8000;
     min-height: 40px;
 }
-#charteuse{
+
+#charteuse {
     background-color: #80FF00;
     min-height: 40px;
 }
-#spring-green{
+
+#spring-green {
     background-color: #00FF80;
     min-height: 40px;
 }
-#azure{
+
+#azure {
     background-color: #0080FF;
     min-height: 40px;
 }
-#violet{
+
+#violet {
     background-color: #8000FF;
     min-height: 40px;
 }
 
-#rose{
+#rose {
     background-color: #FF0080;
     min-height: 40px;
 }
 
 
-#dark-blue{
+#dark-blue {
     background-color: #003b46;
     min-height: 40px;
 }
-#blue{
+
+#blue {
     background-color: #07575b;
     min-height: 40px;
 }
-#lighter-blue{
+
+#lighter-blue {
     background-color: #61a4ad;
     min-height: 40px;
 }
-#lightest-blue{
+
+#lightest-blue {
     background-color: #c0dee5;
     min-height: 40px;
 }
 
 
-#dark-red{
+#dark-red {
     background-color: #ea2f14;
     min-height: 40px;
 }
-#oranges{
+
+#oranges {
     background-color: #e6521f;
     min-height: 40px;
 }
-#peach{
+
+#peach {
     background-color: #fb9e3a;
     min-height: 40px;
 }
-#light-yellow{
+
+#light-yellow {
     background-color: #fcef91;
     min-height: 40px;
 }
 
-#a{
+#a {
     background-color: #1E3A8A;
     min-height: 40px;
 }
-#b{
+
+#b {
     background-color: #2563EB;
     min-height: 40px;
 }
-#c{
+
+#c {
     background-color: #06B6D4;
     min-height: 40px;
 }
-#d{
+
+#d {
     background-color: #14B8A6;
     min-height: 40px;
 }
 
-#aa{
+#aa {
     background-color: #EF4444;
     min-height: 40px;
 }
-#bb{
+
+#bb {
     background-color: #3B82F6;
     min-height: 40px;
 }
-#cc{
+
+#cc {
     background-color: #22C55E;
     min-height: 40px;
 }
-#dd{
+
+#dd {
     background-color: #FACC15;
     min-height: 40px;
 }
 
-#aaa{
+#aaa {
     background-color: #2563EB;
     min-height: 40px;
 }
-#bbb{
+
+#bbb {
     background-color: #F59E0B;
     min-height: 40px;
 }
-#ccc{
+
+#ccc {
     background-color: #8B5CF6;
     min-height: 40px;
 }
-#ddd{
+
+#ddd {
     background-color: #10B981;
     min-height: 40px;
 }
 
 
-#q{
+#q {
     background-color: #EF4444;
     min-height: 40px;
 }
 
-#w{
+#w {
     background-color: #F59E0B;
     min-height: 40px;
 }
-#e{
+
+#e {
     background-color: #FACC15;
     min-height: 40px;
 }
-#r{
+
+#r {
     background-color: #22C55E;
     min-height: 40px;
 }
-#t{
+
+#t {
     background-color: #3B82F6;
     min-height: 40px;
 }
 
-#qq{
+#qq {
     background-color: #0F172A;
     min-height: 40px;
 }
 
-#ww{
+#ww {
     background-color: #334155;
     min-height: 40px;
 }
-#ee{
+
+#ee {
     background-color: #64748B;
     min-height: 40px;
 }
-#rr{
+
+#rr {
     background-color: #CBD5E1;
     min-height: 40px;
 }
-#tt{
+
+#tt {
     background-color: #F8FAFC;
     min-height: 40px;
 }
 
 
 
-#qqq{
+#qqq {
     background-color: #DC2626;
     min-height: 40px;
 }
 
-#www{
+#www {
     background-color: #EA580C;
     min-height: 40px;
 }
-#eee{
+
+#eee {
     background-color: #FACC15;
     min-height: 40px;
 }
-#rrr{
+
+#rrr {
     background-color: #EAB308;
     min-height: 40px;
 }
-#ttt{
+
+#ttt {
     background-color: #84CC16;
     min-height: 40px;
 }
 
-#yyy{
+#yyy {
     background-color: #22C55E;
     min-height: 40px;
 }
 
-#uuu{
+#uuu {
     background-color: #14B8A6;
     min-height: 40px;
 }
-#iii{
+
+#iii {
     background-color: #06B6D4;
     min-height: 40px;
 }
-#ooo{
+
+#ooo {
     background-color: #3B82F6;
     min-height: 40px;
 }
-#ppp{
+
+#ppp {
     background-color: #8B5CF6;
     min-height: 40px;
 }
 
 
 
-#qqqq{
+#qqqq {
     background-color: #111827;
     min-height: 40px;
 }
 
-#wwww{
+#wwww {
     background-color: #1F2937;
     min-height: 40px;
 }
-#eeee{
+
+#eeee {
     background-color: #374151;
     min-height: 40px;
 }
-#rrrr{
+
+#rrrr {
     background-color: #4B5563;
     min-height: 40px;
 }
-#tttt{
+
+#tttt {
     background-color: #6B7280;
     min-height: 40px;
 }
 
-#yyyy{
+#yyyy {
     background-color: #9CA3AF;
     min-height: 40px;
 }
 
-#uuuu{
+#uuuu {
     background-color: #D1D5DB;
     min-height: 40px;
 }
-#iiii{
+
+#iiii {
     background-color: #E5E7EB;
     min-height: 40px;
 }
-#oooo{
+
+#oooo {
     background-color: #F3F4F6;
     min-height: 40px;
 }
-#pppp{
+
+#pppp {
     background-color: #F9FAFB;
     min-height: 40px;
+}
+
+body {
+    background: #833AB4;
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    font-family: "Gravitas One";
+
+
 }
